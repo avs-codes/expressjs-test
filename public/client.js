@@ -1,7 +1,6 @@
-import { io } from 'socket.io-client'
 
 // Good example
-const socket = io('https://express-js-test.onrender.com');
+const socket = io('https://express-js-test-production.up.railway.app/');
 
 const form = document.getElementById('form');
 const input = document.getElementById('input');
