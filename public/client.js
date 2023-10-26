@@ -1,6 +1,6 @@
 
 // Good example
-const socket = io('https://express-js-test-production.up.railway.app/');
+const socket = io('https://express-js-test.onrender.com');
 
 const form = document.getElementById('form');
 const input = document.getElementById('input');
